@@ -1,0 +1,4 @@
+TARGET_CLASS,criterion,Coverage,MutationScore
+nl.tudelft.evo.Exam,LINE,1.0,0.7011494252873564
+nl.tudelft.evo.Exam,BRANCH,1.0,0.7701149425287356
+nl.tudelft.evo.Exam,WEAKMUTATION,1.0,0.8275862068965517
